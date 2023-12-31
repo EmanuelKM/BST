@@ -1,5 +1,5 @@
 # BST
-Binary Search Tree operations implemented in C with recursion
+Binary Search Tree operations implemented in C with recursion.\n
 Operations implemented:
 - creation of the data structure and insertion of data in it
 - a function that tests if the structure follows the rules of an BST
